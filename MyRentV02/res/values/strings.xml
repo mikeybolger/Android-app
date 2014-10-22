@@ -1,0 +1,9 @@
+<resources>
+
+  <string name="app_name">MyRent</string>
+  <string name="geolocation_hint">52.253456,-7.187162</string>
+  <string name="status">Status</string>
+  <string name="rented_checkbox_text">Rented?</string>
+  <string name="location">Location</string>
+
+</resources>
